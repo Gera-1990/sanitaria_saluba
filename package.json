@@ -1,0 +1,15 @@
+{
+  "name": "sanitaria-saluba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "saluba": "sass --watch scss/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
